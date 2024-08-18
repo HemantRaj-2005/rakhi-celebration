@@ -3,9 +3,9 @@ document.getElementById('celebrateBtn').addEventListener('click', function() {
     
     // Array of Rakhi image paths
     const rakhiImages = [
-        'rakhi1.png', // Replace with your first Rakhi image path
-        'rakhi2.png', // Replace with your second Rakhi image path
-        'rakhi3.png'  // Replace with your third Rakhi image path
+        'rakhi1.png', 
+        'rakhi2.png', 
+        'rakhi3.png' 
     ];
     
     for (let i = 0; i < 30; i++) {
